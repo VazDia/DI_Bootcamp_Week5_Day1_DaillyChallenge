@@ -1,0 +1,7 @@
+{
+  "name": "DailyChallengeApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
